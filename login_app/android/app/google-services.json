@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056287524106",
+    "project_id": "eaze-51c53",
+    "storage_bucket": "eaze-51c53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056287524106:android:5ac0806e884300dedee6f3",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3qG6E9ikZw_AlV90cCMxJPppCuEJllv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
